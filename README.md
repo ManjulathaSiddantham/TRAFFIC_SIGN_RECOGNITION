@@ -2,7 +2,7 @@
 I have developed a precise deep neural network for rapid and accurate recognition of various traffic signs, enhancing autonomous driving safety. 
 The model efficiently detects multiple signs simultaneously, leveraging shape details from sign images to reduce accidents.
 Run Traffic sighns.ipynb on jupyter notebook or google colab 
-Make sure to change the Dataset directory path and background image.
+Make sure to change the GTSRB Dataset directory path and background image.
 After completion of building the model,create graphical user interface in python
 To do so run classify.py on cmd by typing  "python classify.py" 
 It will open the graphical user interface.
